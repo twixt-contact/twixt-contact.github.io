@@ -1,1 +1,3 @@
-# twixt-contact.github.io
+# twixt-contact
+
+Open-source Contact management
