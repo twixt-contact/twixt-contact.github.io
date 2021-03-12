@@ -9,4 +9,4 @@ Self-hosted or SaaS contact management solution
 * All data is stored in a GitHub/GitLab repository - can be private
 * Web SPA, Electron App, Android and iOS apps
 
-![Screenshot](webcram1.png)
+![Screenshot](twixt.png)
